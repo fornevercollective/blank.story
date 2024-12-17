@@ -3,9 +3,7 @@
 <section>
 <meta charset="utf8">
 <body>1111</body>
-<script src="compiled.js"></script>
-
-<script>
+<script src="compiled.js">
 background color hex # 0D1117
 color hex # 0D1117
 </script>
